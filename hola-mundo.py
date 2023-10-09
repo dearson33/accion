@@ -1,1 +1,1 @@
-print("hola mundo")
+print("La excelencia no es un acto, es un hábito")
